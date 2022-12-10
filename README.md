@@ -5,3 +5,4 @@
 - KnowBe4 Security Awareness Training
 - KnowBe4 PAB
 - KnowBe4 Introduction to Data Protection
+- KnowBe4 Defining and Handling Sensitive Information
