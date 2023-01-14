@@ -7,3 +7,4 @@
 - KnowBe4 Introduction to Data Protection
 - KnowBe4 Defining and Handling Sensitive Information
 - Leapfrog US Healthcare System
+- Educative.io React for Front-End Developers
