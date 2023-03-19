@@ -8,3 +8,4 @@
 - KnowBe4 Defining and Handling Sensitive Information
 - Leapfrog US Healthcare System
 - Educative.io React for Front-End Developers
+- AWS Certified Developer - Associate
