@@ -9,3 +9,4 @@
 - Leapfrog US Healthcare System
 - Educative.io React for Front-End Developers
 - AWS Certified Developer - Associate
+- Advanced Communication Training for Leaders
